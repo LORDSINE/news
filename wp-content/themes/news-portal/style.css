@@ -1624,7 +1624,7 @@ Header CSS
 }
 
 .np-header-menu-wrapper .mt-container::before {
-  background: rgba(0, 0, 0, 0) url("assets/images/menu-shadow.png") no-repeat scroll center top;
+  background: rgba(0, 0, 0, 0) url("http://localhost/https:/lordsine.github.io/news/wp-content/themes/news-portal/assets/images/menu-shadow.png") no-repeat scroll center top;
   content: "";
   height: 38px;
   left: 50%;
